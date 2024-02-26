@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "antonio",
+    "email": "dangeloantonio179@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "CNAME", 
+       "value": "well-it-wasnt-me.github.com"
+     }
+  },
+
+  "proxied": false
+}
