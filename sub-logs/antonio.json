@@ -7,11 +7,12 @@
   },
 
   "target": {
-    "record-type": {
-       "name": "CNAME", 
-       "value": "well-it-wasnt-me.github.com"
-     }
+    "CNAME": {
+      "name": "antonio", 
+      "value": "well-it-wasnt-me.github.io"
+    }
   },
+
 
   "proxied": false
 }
